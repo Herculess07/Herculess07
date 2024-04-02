@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Vishal Trivedi
-- 👀 I’m interested in Creating and Designing Websites/Application.
-- 🌱 I’m currently learning Machine Learning.
-- Python, NumPy, Pandas, Tkinter etc.
-- Kotlin
-- HTML, CSS, Javascript, PHP
-- MongoDB
+- 👀 I’m interested in Creating and Designing Android Applications.
+- 🌱 Currently Dominating To Growth of  Edutor App Tech Start-Up.
+- Full-Time Android Development
+- Kotlin/Java
 
 
 
