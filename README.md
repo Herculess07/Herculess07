@@ -4,6 +4,8 @@
 - Full-Time Android Development
 - Kotlin/Java
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Herculess07&theme=dark&hide_border=true)<br/>
 
 
 <!---
