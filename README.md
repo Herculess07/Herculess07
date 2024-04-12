@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Edutor App](https://play.google.com/store/apps/details?id=com.nib.edutor&hl=en_IN&gl=US)
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Jetpack Compose** 
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Android Development & Kotlin** 
 
 - 📫 How to reach me **vishaltrivedi2002@gmail.com**
 
