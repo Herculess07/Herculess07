@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vishaltrivedi2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lYsA6ZXmZLNtDAipFfq-SD44xwga7REa/view?usp=sharing](https://drive.google.com/file/d/1lYsA6ZXmZLNtDAipFfq-SD44xwga7REa/view?usp=sharing)
+<!--- 📄 Know about my experiences [https://drive.google.com/file/d/1lYsA6ZXmZLNtDAipFfq-SD44xwga7REa/view?usp=sharing](https://drive.google.com/file/d/1lYsA6ZXmZLNtDAipFfq-SD44xwga7REa/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
