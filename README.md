@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vishaltrivedi2002@gmail.com**
 
-- Also Reach Me at [Instagram **@mr_trivedi_007**](https://www.instagram.com/mr_trivedi_007)
+- Also Reach Me at [Instagram **@mr_trivedi_007**](https://www.instagram.com/mr_trivedi_007) 
 
 **@mr_trivedi_007**
 
