@@ -15,7 +15,6 @@
 
 - Also Reach Me at [Instagram **@mr_trivedi_007**](https://www.instagram.com/mr_trivedi_007) 
 
-**@mr_trivedi_007**
 
 <!--- 📄 Know about my experiences [https://drive.google.com/file/d/1lYsA6ZXmZLNtDAipFfq-SD44xwga7REa/view?usp=sharing](https://drive.google.com/file/d/1lYsA6ZXmZLNtDAipFfq-SD44xwga7REa/view?usp=sharing) -->
 
