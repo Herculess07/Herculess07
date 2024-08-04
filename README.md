@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mr_trivedi_007" target="blank"><img src="https://img.shields.io/twitter/follow/mr_trivedi_007?logo=twitter&style=for-the-badge" alt="mr_trivedi_007" /></a> </p>
 
-- 🔭 I’m currently working on [Edutor App](https://play.google.com/store/apps/details?id=com.nib.edutor&hl=en_IN&gl=US)
+- 🔭 Contributing to [Edutor App](https://play.google.com/store/apps/details?id=com.nib.edutor&hl=en_IN&gl=US)
 
 - 🌱 I’m currently learning **Jetpack Compose** 
 
