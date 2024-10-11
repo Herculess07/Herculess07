@@ -3,7 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/mr_trivedi_007" target="blank"><img src="https://img.shields.io/twitter/follow/mr_trivedi_007?logo=twitter&style=for-the-badge" alt="mr_trivedi_007" /></a> </p>
 
-“ Results-driven Android Developer with over a year of experience in early-stage tech startups. Proficient in Kotlin, Java and XML, I have successfully managed 90+ app updates and led 5 beta releases, significantly driving user engagement and retention. Experienced in Play Store optimization and AAB file generation, I am committed to delivering innovative solutions that enhance user experiences and improve app performance. ”
+- 🔭 Contributing to [Edutor App](https://play.google.com/store/apps/details?id=com.nib.edutor&hl=en_IN&gl=US)
+- 🌱 I’m currently learning **Jetpack Compose** 
+- 💬 Ask me about **Android Development & Kotlin** 
+- 📫 How to reach me **vishaltrivedi2002@gmail.com**
+-  Also Reach Me at [Instagram **@mr_trivedi_007**](https://www.instagram.com/mr_trivedi_007) 
 
 
 <!--- 📄 Know about my experiences [https://drive.google.com/file/d/1lYsA6ZXmZLNtDAipFfq-SD44xwga7REa/view?usp=sharing](https://drive.google.com/file/d/1lYsA6ZXmZLNtDAipFfq-SD44xwga7REa/view?usp=sharing) -->
